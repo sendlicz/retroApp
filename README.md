@@ -16,7 +16,7 @@ Do you want to install it globally [Y/n]? y
 ```
 7. Allow firewall traffic
 8. Open Android Emulator and press "E" in terminal to open app in emulator
-9. To open app in physical device scan QR code using expo application available in Google Play or App Store
+9. To open app in physical device scan QR code using expo application available in Google Play and App Store
 
 Quick start:
 1. Download SimpleRetrospective.apk from https://gofile.io/d/QfVMzj
